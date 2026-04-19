@@ -1,4 +1,4 @@
-# Project 1 - 3D Facial Expression Recognition
+# Random Forest 3D Facial Expression Recognition
 
 ## Overview
 This project classifies facial expressions from 3D facial landmark data stored in `.bnd` files. Each file contains 83 facial landmarks, where each landmark has `(x, y, z)` coordinates. The project supports five input data types:
